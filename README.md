@@ -98,7 +98,7 @@
 这是我的微信收款码，如果我的仓库对您有所帮助，欢迎您的捐赠。  
   
 
-<img src="https://i.bmp.ovh/imgs/2022/05/31/cc8fbf3d16e90dc6.jpg" align="left" style="width: 100%" />  
+<img src="https://i.bmp.ovh/imgs/2022/05/31/cc8fbf3d16e90dc6.jpg" align="center" height="" width="500" />  
   
 
 ### 区块链钱包 Blockchain Wallet  
@@ -111,5 +111,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
