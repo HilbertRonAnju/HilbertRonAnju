@@ -1,7 +1,9 @@
 # Hi! I'm Hilbert, a Part-Time  Developer and a Student   
   
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="left" height="" width="500" />  
+<div align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="center" style="width: 100%" />
+</div>  
   
 
 - 🔭 I’m currently a postgraduate of XJTU  
