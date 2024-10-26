@@ -89,13 +89,7 @@
 
 
 ## Support Me  
-这是我的微信收款码，如果我的仓库对您有所帮助，欢迎您的捐赠。  
-  
-
-<img src="https://i.bmp.ovh/imgs/2022/05/31/cc8fbf3d16e90dc6.jpg" align="center" height="" width="500" />  
-  
-
-### 区块链钱包 Blockchain Wallet  
+如果我的仓库对您有所帮助，欢迎您的捐赠。  
   
 
 - BNB：0x2Bf26C74dA3FBFdD61D7534328b56F2fb493F330  
